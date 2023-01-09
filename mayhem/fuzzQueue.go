@@ -1,4 +1,4 @@
-package fuzz
+package fuzzQueue
 
 import "strconv"
 import "github.com/smallnest/queue"
